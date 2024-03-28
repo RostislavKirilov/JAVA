@@ -91,8 +91,8 @@ public class Currency_Converter {
             run = continueChoice.equals("y");
         }
         System.out.println("Bye!");
-
-    }
+}
+    
     public static void Rupee_to_other(double amt) {
         System.out.println("1 rupee = " + 0.013 + " dollar.");
         System.out.println();
