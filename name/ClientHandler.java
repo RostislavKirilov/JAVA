@@ -42,7 +42,6 @@ public class ClientHandler implements Runnable {
             }
         }
     }
-
     public void broadcastMessage(String messageToSend){
 
         for (ClientHandler clientHandler : clientHandlers) {
