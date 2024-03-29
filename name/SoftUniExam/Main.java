@@ -5,7 +5,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int studentsCount = Integer.parseInt(scanner.nextLine());
-
         int topStudentsCount = 0;
         int between4And5Count = 0;
         int between3And4Count = 0;
